@@ -32,3 +32,4 @@ Make sure you understand the following:
 - [ ] [Promise chaining](https://www.javascripttutorial.net/es6/promise-chaining/) – show you how to execute multiple asynchronous operations in sequence.
 - [ ] [Promise.all()](https://www.javascripttutorial.net/es6/javascript-promise-all/) – learn how to compose a new promise out of several promises.
 - [ ] [Promise error handling](https://www.javascripttutorial.net/es6/promise-error-handling/) – guide you on how to handle errors in promises.
+- [ ] [ES2017 async / await](https://www.javascripttutorial.net/es-next/javascript-async-await/) – write asynchronous code in a clearer syntax.
