@@ -1,5 +1,19 @@
 **Just read the `quick start` guide of the following tools to understand the basic usage.**
 
+### Project Links
+
+[ECO-SSOT Development Guide](https://swpc.atlassian.net/wiki/spaces/SSOT/pages/979763711/ECO+SSOT+Development+Guide)\
+[ECO-SSOT UX/UX](https://xd.adobe.com/view/ed1b1a9b-1595-4091-a2bd-4cb96be21f40-b848/grid/)\
+[ECO-SSOT Jira](https://swpc.atlassian.net/browse/ECOSSOT)
+
+### Project Rules
+
+- Follow [commitlint](https://github.com/conventional-changelog/commitlint)
+- Follow Project's ESLint Rules
+- Use TypeScript
+- Use feature branch to develop new features (you should checkout from `dev` branch)
+- Submit a merge request to `dev` branch and assign to me (Leo Jhuo) when you finish a feature
+
 ### ECO-SSOT FRONTEND Tools
 
 - [ ] [Vite](https://vitejs.dev/guide/) - A modern build tool that aims to provide a faster and leaner development experience for modern web projects.
